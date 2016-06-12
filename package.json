@@ -1,0 +1,18 @@
+{
+  "name": "angular-todo",
+  "version": "0.1.0",
+  "description": "Simple ToDo app.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "browser-sync start --server --port 3001 --files='./*/**'"
+  },
+  "author": "Taras Mazurkevych",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.6",
+    "angular-animate": "^1.5.6",
+    "angular-aria": "^1.5.6",
+    "angular-material": "^1.0.9"
+  }
+}

@@ -1,0 +1,21 @@
+.page-toolbar-tools {
+    background: #212121;
+}
+
+.page-toolbar-heading {
+    color: #fff;
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+.todo-form {
+    padding-left: 15px;
+}
+
+.todolist_item.done {
+  opacity: .35;
+}
